@@ -1,0 +1,11 @@
+\\Mac\Home\Desktop\h2 - random\h2 - random\bin\Debug\h2 - random.exe.config
+\\Mac\Home\Desktop\h2 - random\h2 - random\bin\Debug\h2 - random.exe
+\\Mac\Home\Desktop\h2 - random\h2 - random\bin\Debug\h2 - random.pdb
+\\Mac\Home\Desktop\h2 - random\h2 - random\obj\Debug\h2 - random.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\h2 - random\h2 - random\obj\Debug\h2 - random.csproj.SuggestedBindingRedirects.cache
+\\Mac\Home\Desktop\h2 - random\h2 - random\obj\Debug\h2___random.Form1.resources
+\\Mac\Home\Desktop\h2 - random\h2 - random\obj\Debug\h2___random.Properties.Resources.resources
+\\Mac\Home\Desktop\h2 - random\h2 - random\obj\Debug\h2 - random.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\h2 - random\h2 - random\obj\Debug\h2 - random.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\h2 - random\h2 - random\obj\Debug\h2 - random.exe
+\\Mac\Home\Desktop\h2 - random\h2 - random\obj\Debug\h2 - random.pdb
